@@ -1,0 +1,68 @@
+.nav-ul {
+    right: 0;
+    position: absolute;
+    background-color: rgb(33, 37, 41) !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.custom-bg {
+    background-color: rgb(33, 37, 41, 0.4) !important;
+}
+
+.hamburger {
+    border: none;
+    font-family: 'Roboto';
+}
+
+.collapse {
+    width: 100%;
+}
+
+.hamburger:hover, .hamburger:active, .hamburger:focus, .hamburger:visited {
+    border: none;
+}
+
+.navbar-toggler:focus, .navbar-toggler:active, .navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+}
+
+p {
+    font-family: 'Playfair Display';
+}
+
+.travel {
+    background: url("/CSS/travel.jpg")
+      center no-repeat fixed;
+    background-size: cover;
+}
+
+.jumbotron1 {
+    background: url("/CSS/Kauai.jpg")
+      center no-repeat fixed;
+    background-size: cover;
+}
+
+.jumbotron2 {
+    background: url("/CSS/Mexico.jpg")
+      center no-repeat fixed;
+    background-size: cover;
+}
+
+.jumbotron3 {
+    background: url("/CSS/Venice.jpg")
+      center no-repeat fixed;
+    background-size: cover;
+}
+/* 
+@media screen and (min-width: 992px) {
+    .nav-ul {
+        background-color: transparent;
+        right: 0;
+
+    }
+} */
