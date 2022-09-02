@@ -1,8 +1,15 @@
+
+
 .nav-ul {
     right: 0;
     position: absolute;
     background-color: rgb(33, 37, 41) !important;
     font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    position: sticky !important;
+    top: 0 !important;
 }
 
 .custom-bg {
@@ -16,6 +23,14 @@
 
 .collapse {
     width: 100%;
+}
+
+#kauai, #mexico, #italy {
+    scroll-margin-top: 4em;
+}
+
+i {
+    margin: 0px 20px;
 }
 
 .hamburger:hover, .hamburger:active, .hamburger:focus, .hamburger:visited {
