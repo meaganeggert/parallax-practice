@@ -51,25 +51,25 @@ p {
 }
 
 .travel {
-    background: url("/CSS/travel.jpg")
+    background: url("travel.jpg")
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron1 {
-    background: url("/CSS/Kauai.jpg")
+    background: url("Kauai.jpg")
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron2 {
-    background: url("/CSS/Mexico.jpg")
+    background: url("Mexico.jpg")
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron3 {
-    background: url("/CSS/Venice.jpg")
+    background: url("Venice.jpg")
       center no-repeat fixed;
     background-size: cover;
 }
