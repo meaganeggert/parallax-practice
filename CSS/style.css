@@ -51,25 +51,41 @@ p {
 }
 
 .travel {
+<<<<<<< HEAD
     background: url("travel.jpg")
+=======
+    background: url("TRAVEL.JPG")
+>>>>>>> 700bd58705c9b9ad2e6eee76aff1c439cbce57e1
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron1 {
+<<<<<<< HEAD
     background: url("Kauai.jpg")
+=======
+    background: url("KAUAI.JPG")
+>>>>>>> 700bd58705c9b9ad2e6eee76aff1c439cbce57e1
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron2 {
+<<<<<<< HEAD
     background: url("Mexico.jpg")
+=======
+    background: url("MEXICO.JPG")
+>>>>>>> 700bd58705c9b9ad2e6eee76aff1c439cbce57e1
       center no-repeat fixed;
     background-size: cover;
 }
 
 .jumbotron3 {
+<<<<<<< HEAD
     background: url("Venice.jpg")
+=======
+    background: url("VENICE.JPG")
+>>>>>>> 700bd58705c9b9ad2e6eee76aff1c439cbce57e1
       center no-repeat fixed;
     background-size: cover;
 }
